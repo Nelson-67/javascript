@@ -1,6 +1,6 @@
 function exemploVar() {
     var x = 10;
-    if (trtue){
+    if (true){
         var x = 20; // mesma variável x é redeclarada dentro do bloco
         console.log(x); // 20
     }
