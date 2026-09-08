@@ -1,0 +1,1 @@
+let resultado = null; // Valor nulo, indicando ausência de valor
