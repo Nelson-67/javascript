@@ -4,7 +4,7 @@ let x = 5; x++; x++; x--;
 
 /*
 A) 5  
-B) 6  
+B) 6  (CORRETA)
 C) 7  
 D) 4 
  */
