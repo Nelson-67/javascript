@@ -6,7 +6,7 @@ totalDoces %= criancas;
 
 /*
 A) 3  
-B) 1  
+B) 1  (CORRETO)
 C) 0  
 D) 3.33 
 */
