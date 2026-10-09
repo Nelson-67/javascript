@@ -1,0 +1,10 @@
+/*13. Qual será o valor da variável potencia?*/
+
+let base = 2; base **= 3;
+
+/*
+A) 6  
+B) 5  
+C) 8  (CORRETO)
+D) 16
+*/ 
