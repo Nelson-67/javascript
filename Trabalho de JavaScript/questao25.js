@@ -7,6 +7,6 @@ for (let i = 1; i <= 3; i++) { soma += i;
 /*
 A) 3 
 B) 4 
-C) 6 
+C) 6 (CORRETO)
 D) 9 
 */
