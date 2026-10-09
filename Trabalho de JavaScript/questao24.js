@@ -6,7 +6,7 @@ for (let i = 5; i <= 20; i += 5)
 
 /*
 A) 3 vezes  
-B) 4 vezes (5, 10, 15, 20).  
+B) 4 vezes (5, 10, 15, 20).  (CORRETO)
 C) 5 vezes  
 D) 20 vezes 
 */
