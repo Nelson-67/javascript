@@ -9,7 +9,7 @@ for (let i = 1; i <= 3; i++)
 
 /*
 A) 1, 2, 3  
-B) 1, Meio, 3  
+B) 1, Meio, 3  (CORRETO)
 C) Meio, Meio, Meio  
 D) 2 
 */
